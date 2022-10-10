@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "dyno/steps",
         dryRun = false,
-        tags = "@wip"
+        tags = "@B26G16-91"
 )
 
 public class Runner {
